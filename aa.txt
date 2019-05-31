@@ -1,4 +1,4 @@
 Hello
 This is added in Master directly
 Line added in local
-
+Entry added in Remote
